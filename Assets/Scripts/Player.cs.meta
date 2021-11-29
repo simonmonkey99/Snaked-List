@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 66009b179b0e74c468ed6bf0700a88ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {instanceID: 0}
+  - prefab2: {instanceID: 0}
+  - player: {instanceID: 0}
+  - tailY: {fileID: 21300000, guid: ad8d8a30a536b6a4ca6b9f6e7dad7669, type: 3}
+  - tailX: {fileID: 21300000, guid: 09765fd8564007e4e83ac7734b66d644, type: 3}
+  - turn1: {fileID: 21300000, guid: b363217455692f845b0c0aa3d8647084, type: 3}
+  - turn2: {fileID: 21300000, guid: 150f4431978863143ab4486312c33d63, type: 3}
+  - turn3: {fileID: 21300000, guid: 672b29281e1d5104eafb885b990e612f, type: 3}
+  - turn4: {fileID: 21300000, guid: e1034b042c8ccd044a9d1e3a1a3d3202, type: 3}
+  - m_FruitSpawner: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
